@@ -1,4 +1,4 @@
-#! /usr/bin/env node
+#!/usr/bin/env node
 
 const figlet = require('figlet');
 const center = require('center-align');
