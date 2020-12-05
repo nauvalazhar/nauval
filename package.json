@@ -1,6 +1,6 @@
 {
   "name": "nauval",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "About me",
   "main": "index.js",
   "bin": {
